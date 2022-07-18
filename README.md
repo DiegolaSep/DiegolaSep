@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DiegolaSep
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript and React js
+- 📫 How to reach me: disr88@gmail.com
 
 <!---
 DiegolaSep/DiegolaSep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
